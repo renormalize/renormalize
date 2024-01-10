@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there
 
 <!--
 **renormalize/renormalize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Saketh.  
+Working in Go [@gardener](https://github.com/gardener).  
+Interested in programming languages and currently tinkering in OCaml.
