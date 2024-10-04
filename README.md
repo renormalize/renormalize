@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm Saketh.  
-Working in Go [@gardener](https://github.com/gardener).  
-Interested in programming languages and currently tinkering in OCaml.
+Working in Kubernetes and Go [@gardener](https://github.com/gardener).  
+Interested in programming languages and currently tinkering in Rust.
