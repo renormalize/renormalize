@@ -1,5 +1,4 @@
-### Hello there
-
+#### Hello there!
 <!--
 **renormalize/renormalize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Saketh.  
-Working in Kubernetes and Go [@gardener](https://github.com/gardener).  
-Interested in programming languages and currently tinkering in Rust.
+I'm Saketh and I work on Kubernetes operators [@gardener](https://github.com/gardener).  
+I currently maintain [gardener/etcd-druid](https://github.com/gardener/etcd-druid) and [NVIDIA/grove](https://github.com/NVIDIA/grove).
